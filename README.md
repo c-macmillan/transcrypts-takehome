@@ -1,4 +1,4 @@
-### Connor MacMillan's Transcrypt Take-Home Assessment
+### Connor MacMillan's Transcrypts Take-Home Assessment
 For this take-home assessment on text generation, I created 3 notebooks and one python file that helps call the MediaStack API.
 
 #### Data Collection Notebook
